@@ -1,2 +1,2 @@
 # Mech105-Algorithms
-Matlab code
+These are the algorithms that I wrote using MatLab for the different numarical methods.
